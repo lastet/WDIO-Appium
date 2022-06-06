@@ -1,4 +1,17 @@
-//https://youtu.be/76twClG_63I
+/*
+Capabilities:
+{
+  "appium:platformVersion": "11.0",
+  "appium:deviceName": "Pixel 3",
+  "appium:app": "C:/Users/PC-01/webdriverio-appium/app/android/booking-com-32-0-2.apk",
+  "platformName": "Android",
+  "appium:automationName": "UIAutomator2"
+}
+
+Video can be found here:
+https://youtu.be/76twClG_63I
+*/
+
 
 describe ('Booking app user story:', () => {
 
